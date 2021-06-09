@@ -1,61 +1,42 @@
-# Group Project #1 
+# On The Scene Movie App 
 
-## On The Scene Movie App
+## Description
 
-We created a Movie App Database that provides streaming availability for Movies and Television Shows.
+On The Scene is a Movie Database that provides streaming availability details for Movies and Television Shows.
 
-## User Story & Motivation for Development 
+## Table of Contents
 
-* As a lover of all things Tech
-
-* I want a Movie App alternative to Netflix, Amazon, YouTube etc..
-
-* So that I can support an independent endeavor 
-
-## Technologies Used
-
-* HTML
-
-* CSS
-
-* Bulma
-
-* JavaScript
-
-## Apis Used
-
-https://rapidapi.com/rapidapi/api/movie-database-imdb-alternative
-
-http://www.omdbapi.com/ 
-
-## Team Members 
-
-* [Rohith Kurian](https://github.com/rkurian97)
-
-* [Sharee Osbourne](https://github.com/ShareeO)
-
-* [Dakota Nelson](https://github.com/kotalilyy)
-
-## Resources/ Documentation
-
-https://bulma.io/
-
-## Google Slides Presentation
-
-https://docs.google.com/presentation/d/1W2JD3EWXEev7RI1DMePMXSVmz6-dbqiEkYqO4TWT3m4/edit?usp=sharing
-
-## Project Proposal 
-
-https://docs.google.com/document/d/1uSfV2F5SL0jG1OcklDyPOzATQ0_jiRPbIRSrLxtcQqI/edit
-
-## Challenges and Solutions our team faced 
-
-Collaborating, Problem Solving, Zoom Meetings, Communication, Solving Merge Conflicts,Working around each other’s Schedules, Deadlines
+ - [Description](#description)
+ - [Table of Contents](#table-of-contents)
+ - [Live Link](#live-link)
+ - [Usage](#usage)
+ - [Contributions](#contributions)
+ - [Questions](#questions)
 
 ## Live Link
-https://rkurian97.github.io/bc-project-1/
 
-## Screenshot 
+Here is a link to the live application: [https://rkurian97.github.io/bc-project-1/](https://rkurian97.github.io/bc-project-1/)
 
-![onthescene](https://user-images.githubusercontent.com/77229281/112730895-1f229a00-8f02-11eb-8a1a-80fdb8ad0e50.png)
+## Usage
 
+[Movie Database API](https://rapidapi.com/rapidapi/api/movie-database-imdb-alternative)
+
+[OMDb API](http://www.omdbapi.com/)
+
+## Contributions
+
+[Rohith Kurian](https://github.com/rkurian97)
+
+[Sharee Osbourne](https://github.com/ShareeO)
+
+[Dakota Nelson](https://github.com/kotalilyy)
+
+## Questions
+
+If you have any questions feel free to email the contributing team members.
+
+Rohith Kurian <a href="mailto:kurian.rohit1229@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a> 
+
+Sharee Osbourne <a href="mailto:selena74354@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a> 
+
+Dakota Nelson <a href="mailto:kotalilyy@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
